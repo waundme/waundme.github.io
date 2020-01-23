@@ -1,5 +1,6 @@
 ---
 title: "Claus Pias gibt es nicht"
+author: Arne Janning
 tags:
   - Claus Pias
   - Digitalisierung
