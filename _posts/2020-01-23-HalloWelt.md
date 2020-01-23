@@ -11,6 +11,10 @@ tags:
 
 Das hier ist ein Text.
 
-´´´python
-print("Hallo Welt")
-´´´
+```python
+def print_hi(name):
+  print("Hi" + name)
+
+print_hi("Arne")
+```
+
