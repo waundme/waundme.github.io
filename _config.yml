@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Arne Janning"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Philosophie. AI."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/waundme"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
